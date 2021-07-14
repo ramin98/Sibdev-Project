@@ -1,0 +1,178 @@
+@media only screen and (max-width: 1180px) {
+    .logo-text{
+        display: none;
+    }
+
+    .nav-items-text{
+        display: none;
+    }
+
+    .nav-items-container{
+        display: flex;
+        flex-direction: column;
+        margin-top: 30px;
+        width: 100%;
+        margin-left: 0px;
+        align-items: center;
+    }
+
+    .nav{
+        width: 100px;
+        background-color: #F3F4F9;
+        position: fixed;
+        height: 100%;
+    }
+
+    .menu{
+        display: flex;
+        font-size: 40px;
+        align-items: center;
+        cursor: pointer;
+    }
+
+    .main{
+        display: flex;
+        flex-direction: column;
+        margin-left: 100px;
+    }
+
+    .logo-div{
+        
+    }
+
+    .goods-items {
+        width: 300px;
+        height: 160px;
+        background: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0px 1px 2px 0px;
+        margin-top: 20px;
+        cursor: pointer;
+    }
+
+    .image1{
+        background-image: url('img/image1.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    
+    .image2{
+        background-image: url('img/image2.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    .image3{
+        background-image: url('img/image3.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    .image4{
+        background-image: url('img/image4.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    .image5{
+        background-image: url('img/image5.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    .image6{
+        background-image: url('img/image6.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    .image7{
+        background-image: url('img/image7.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    .image8{
+        background-image: url('img/image8.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    
+    .image9{
+        background-image: url('img/image9.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+
+}
+    
+@media only screen and (max-width: 760px) {
+
+    .search-input{
+        border: none;
+        outline: none;
+        margin: 10px;
+        font-family: OpenSans;
+        font-size: 13px;
+        color: rgba(0, 0, 0, 0.45);
+        width: 80%;
+    }
+
+    .goods-items {
+        width: 230px;
+        height: 160px;
+        background: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0px 1px 2px 0px;
+        margin-top: 20px;
+        cursor: pointer;
+    }
+
+    .image1{
+        background-image: url('img/image1.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    
+    .image2{
+        background-image: url('img/image2.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    .image3{
+        background-image: url('img/image3.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    .image4{
+        background-image: url('img/image4.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    .image5{
+        background-image: url('img/image5.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    .image6{
+        background-image: url('img/image6.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    .image7{
+        background-image: url('img/image7.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    .image8{
+        background-image: url('img/image8.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+    
+    .image9{
+        background-image: url('img/image9.png');
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+.nav-menu{
+    width: 400px;
+}
+}
